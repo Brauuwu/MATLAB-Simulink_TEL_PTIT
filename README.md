@@ -9,5 +9,5 @@ Codes for System Design and Simulation Purposes
 
 > Wireless Communication Engineering
 
-> Optical communication Engineering
+> Optical Communication Engineering
 
