@@ -14,7 +14,7 @@ res_LT = x>y
 %% Find x >= y
 res_GE = x>=y
 
-%% Find x >= y
+%% Find x <= y
 res_LE = x<=y
 
 %% Find x == y
