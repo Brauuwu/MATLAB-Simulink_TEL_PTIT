@@ -12,7 +12,7 @@ f = @(y) r-a*y;
 % Initial Condition
 x(1) = 0;
 y(1) = 0;
-% Euler Method
+% RK4
 for i=2:N
     x(i) = x(i-1)+h/2;
     k1 = h*f(y(i-1));
