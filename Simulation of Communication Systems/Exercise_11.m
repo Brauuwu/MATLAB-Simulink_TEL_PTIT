@@ -1,4 +1,4 @@
-% Exercise 9
+% Exercise 11
 
 %% Init value of t and s(t)
 t = 0 : 0.1 : 10;
